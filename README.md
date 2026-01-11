@@ -8,7 +8,6 @@ I built my SLO clone in 2021, and this repo is a small piece of practical knowle
 
 - [BIASING_GUIDE.md](BIASING_GUIDE.md) - Complete safety guide and measurement procedures
 - [bias_calculator.ipynb](bias_calculator.ipynb) - Interactive Jupyter notebook calculator (Recommended)
-- [bias_calculator.py](bias_calculator.py) - Python script for command-line usage
 
 ## Quick Start
 
