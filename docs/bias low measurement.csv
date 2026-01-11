@@ -1,0 +1,5 @@
+tube_name,pin1_g3_suppressor_value,pin1_g3_suppressor_unit,pin2_heater_value,pin2_heater_unit,pin3_plate_anode_value,pin3_plate_anode_unit,pin4_screen_g2_value,pin4_screen_g2_unit,pin5_control_grid_g1_value,pin5_control_grid_g1_unit,pin6_no_connection_value,pin6_no_connection_unit,pin7_heater_value,pin7_heater_unit,pin8_cathode_value,pin8_cathode_unit
+EL34_1,ground,VDC,43,VDC,513.4,VDC,508.9,VDC,-67.15,VDC,509.7,N/A,43,VDC,0,mVDC
+EL34_2,ground,VDC,43,VDC,513.4,VDC,508.8,VDC,-67.15,VDC,509.5,N/A,43,VDC,0,mVDC
+EL34_3,ground,VDC,43,VDC,513.4,VDC,511,VDC,-67.15,VDC,509.1,N/A,43,VDC,0,mVDC
+EL34_4,ground,VDC,43,VDC,513.4,VDC,508.5,VDC,-67.15,VDC,509.5,N/A,43,VDC,0,mVDC
